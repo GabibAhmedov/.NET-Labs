@@ -1,0 +1,15 @@
+D:\labs(sem3)\lab5\Demographic\Demographic\bin\Debug\Demographic.exe.config
+D:\labs(sem3)\lab5\Demographic\Demographic\bin\Debug\Demographic.exe
+D:\labs(sem3)\lab5\Demographic\Demographic\bin\Debug\Demographic.pdb
+D:\labs(sem3)\lab5\Demographic\Demographic\obj\Debug\DemographicWinForms.csprojAssemblyReference.cache
+D:\labs(sem3)\lab5\Demographic\Demographic\obj\Debug\Demographic.Form1.resources
+D:\labs(sem3)\lab5\Demographic\Demographic\obj\Debug\Demographic.Properties.Resources.resources
+D:\labs(sem3)\lab5\Demographic\Demographic\obj\Debug\DemographicWinForms.csproj.GenerateResource.cache
+D:\labs(sem3)\lab5\Demographic\Demographic\obj\Debug\DemographicWinForms.csproj.CoreCompileInputs.cache
+D:\labs(sem3)\lab5\Demographic\Demographic\obj\Debug\Demographic.exe
+D:\labs(sem3)\lab5\Demographic\Demographic\obj\Debug\Demographic.pdb
+D:\labs(sem3)\lab5\Demographic\Demographic\bin\Debug\DemographicFileOperations.dll
+D:\labs(sem3)\lab5\Demographic\Demographic\bin\Debug\DemographicFileOperations.pdb
+D:\labs(sem3)\lab5\Demographic\Demographic\obj\Debug\DemographicWinForms.csproj.CopyComplete
+D:\labs(sem3)\lab5\Demographic\Demographic\bin\Debug\DemographicClassLibrary.dll
+D:\labs(sem3)\lab5\Demographic\Demographic\bin\Debug\DemographicClassLibrary.pdb

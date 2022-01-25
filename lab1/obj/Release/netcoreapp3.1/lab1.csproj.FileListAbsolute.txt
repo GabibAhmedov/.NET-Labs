@@ -1,0 +1,15 @@
+D:\labs(sem3)\lab1\bin\Release\netcoreapp3.1\lab1.exe
+D:\labs(sem3)\lab1\bin\Release\netcoreapp3.1\lab1.deps.json
+D:\labs(sem3)\lab1\bin\Release\netcoreapp3.1\lab1.runtimeconfig.json
+D:\labs(sem3)\lab1\bin\Release\netcoreapp3.1\lab1.runtimeconfig.dev.json
+D:\labs(sem3)\lab1\bin\Release\netcoreapp3.1\lab1.dll
+D:\labs(sem3)\lab1\bin\Release\netcoreapp3.1\lab1.pdb
+D:\labs(sem3)\lab1\obj\Release\netcoreapp3.1\lab1.csprojAssemblyReference.cache
+D:\labs(sem3)\lab1\obj\Release\netcoreapp3.1\lab1.Form1.resources
+D:\labs(sem3)\lab1\obj\Release\netcoreapp3.1\lab1.csproj.GenerateResource.cache
+D:\labs(sem3)\lab1\obj\Release\netcoreapp3.1\lab1.AssemblyInfoInputs.cache
+D:\labs(sem3)\lab1\obj\Release\netcoreapp3.1\lab1.AssemblyInfo.cs
+D:\labs(sem3)\lab1\obj\Release\netcoreapp3.1\lab1.csproj.CoreCompileInputs.cache
+D:\labs(sem3)\lab1\obj\Release\netcoreapp3.1\lab1.dll
+D:\labs(sem3)\lab1\obj\Release\netcoreapp3.1\lab1.pdb
+D:\labs(sem3)\lab1\obj\Release\netcoreapp3.1\lab1.genruntimeconfig.cache

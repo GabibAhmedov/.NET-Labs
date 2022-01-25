@@ -1,0 +1,9 @@
+D:\labs(sem3)\lab5\Demographic\ModelVisualisation\bin\Debug\ModelVisualisation.dll
+D:\labs(sem3)\lab5\Demographic\ModelVisualisation\bin\Debug\ModelVisualisation.pdb
+D:\labs(sem3)\lab5\Demographic\ModelVisualisation\bin\Debug\DemographicClassLibrary.dll
+D:\labs(sem3)\lab5\Demographic\ModelVisualisation\bin\Debug\DemographicClassLibrary.pdb
+D:\labs(sem3)\lab5\Demographic\ModelVisualisation\obj\Debug\ModelVisualisation.csprojAssemblyReference.cache
+D:\labs(sem3)\lab5\Demographic\ModelVisualisation\obj\Debug\ModelVisualisation.csproj.CoreCompileInputs.cache
+D:\labs(sem3)\lab5\Demographic\ModelVisualisation\obj\Debug\ModelVisualisation.csproj.CopyComplete
+D:\labs(sem3)\lab5\Demographic\ModelVisualisation\obj\Debug\ModelVisualisation.dll
+D:\labs(sem3)\lab5\Demographic\ModelVisualisation\obj\Debug\ModelVisualisation.pdb

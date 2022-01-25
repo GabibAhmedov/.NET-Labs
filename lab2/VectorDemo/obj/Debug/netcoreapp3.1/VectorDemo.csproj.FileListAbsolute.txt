@@ -1,0 +1,16 @@
+D:\labs(sem3)\lab2\VectorDemo\bin\Debug\netcoreapp3.1\VectorDemo.exe
+D:\labs(sem3)\lab2\VectorDemo\bin\Debug\netcoreapp3.1\VectorDemo.deps.json
+D:\labs(sem3)\lab2\VectorDemo\bin\Debug\netcoreapp3.1\VectorDemo.runtimeconfig.json
+D:\labs(sem3)\lab2\VectorDemo\bin\Debug\netcoreapp3.1\VectorDemo.runtimeconfig.dev.json
+D:\labs(sem3)\lab2\VectorDemo\bin\Debug\netcoreapp3.1\VectorDemo.dll
+D:\labs(sem3)\lab2\VectorDemo\bin\Debug\netcoreapp3.1\VectorDemo.pdb
+D:\labs(sem3)\lab2\VectorDemo\bin\Debug\netcoreapp3.1\LinearAlgebra.dll
+D:\labs(sem3)\lab2\VectorDemo\bin\Debug\netcoreapp3.1\LinearAlgebra.pdb
+D:\labs(sem3)\lab2\VectorDemo\obj\Debug\netcoreapp3.1\VectorDemo.csprojAssemblyReference.cache
+D:\labs(sem3)\lab2\VectorDemo\obj\Debug\netcoreapp3.1\VectorDemo.AssemblyInfoInputs.cache
+D:\labs(sem3)\lab2\VectorDemo\obj\Debug\netcoreapp3.1\VectorDemo.AssemblyInfo.cs
+D:\labs(sem3)\lab2\VectorDemo\obj\Debug\netcoreapp3.1\VectorDemo.csproj.CoreCompileInputs.cache
+D:\labs(sem3)\lab2\VectorDemo\obj\Debug\netcoreapp3.1\VectorDemo.csproj.CopyComplete
+D:\labs(sem3)\lab2\VectorDemo\obj\Debug\netcoreapp3.1\VectorDemo.dll
+D:\labs(sem3)\lab2\VectorDemo\obj\Debug\netcoreapp3.1\VectorDemo.pdb
+D:\labs(sem3)\lab2\VectorDemo\obj\Debug\netcoreapp3.1\VectorDemo.genruntimeconfig.cache

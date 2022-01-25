@@ -1,0 +1,6 @@
+D:\labs(sem3)\lab5\Demographic\DemographicFileOperations\bin\Debug\DemographicFileOperations.dll
+D:\labs(sem3)\lab5\Demographic\DemographicFileOperations\bin\Debug\DemographicFileOperations.pdb
+D:\labs(sem3)\lab5\Demographic\DemographicFileOperations\obj\Debug\DemographicFileOperations.csprojAssemblyReference.cache
+D:\labs(sem3)\lab5\Demographic\DemographicFileOperations\obj\Debug\DemographicFileOperations.csproj.CoreCompileInputs.cache
+D:\labs(sem3)\lab5\Demographic\DemographicFileOperations\obj\Debug\DemographicFileOperations.dll
+D:\labs(sem3)\lab5\Demographic\DemographicFileOperations\obj\Debug\DemographicFileOperations.pdb

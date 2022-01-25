@@ -1,0 +1,9 @@
+D:\labs(sem3)\lab5\Demographic\DemographicClassLibrary\obj\Debug\DemographicClassLibrary.csprojAssemblyReference.cache
+D:\labs(sem3)\lab5\Demographic\DemographicClassLibrary\obj\Debug\DemographicClassLibrary.csproj.CoreCompileInputs.cache
+D:\labs(sem3)\lab5\Demographic\DemographicClassLibrary\bin\Debug\DemographicClassLibrary.dll
+D:\labs(sem3)\lab5\Demographic\DemographicClassLibrary\bin\Debug\DemographicClassLibrary.pdb
+D:\labs(sem3)\lab5\Demographic\DemographicClassLibrary\obj\Debug\DemographicClassLibrary.dll
+D:\labs(sem3)\lab5\Demographic\DemographicClassLibrary\obj\Debug\DemographicClassLibrary.pdb
+D:\labs(sem3)\lab5\Demographic\DemographicClassLibrary\bin\Debug\DemographicFileOperations.dll
+D:\labs(sem3)\lab5\Demographic\DemographicClassLibrary\bin\Debug\DemographicFileOperations.pdb
+D:\labs(sem3)\lab5\Demographic\DemographicClassLibrary\obj\Debug\DemographicClassLibrary.csproj.CopyComplete
