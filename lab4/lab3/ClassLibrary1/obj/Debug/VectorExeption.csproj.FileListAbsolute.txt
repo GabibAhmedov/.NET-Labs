@@ -1,6 +1,0 @@
-D:\labs(sem3)\lab3\ClassLibrary1\bin\Debug\ClassLibrary1.dll
-D:\labs(sem3)\lab3\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
-D:\labs(sem3)\lab3\ClassLibrary1\obj\Debug\VectorExeption.csprojAssemblyReference.cache
-D:\labs(sem3)\lab3\ClassLibrary1\obj\Debug\VectorExeption.csproj.CoreCompileInputs.cache
-D:\labs(sem3)\lab3\ClassLibrary1\obj\Debug\ClassLibrary1.dll
-D:\labs(sem3)\lab3\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
